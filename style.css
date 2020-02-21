@@ -31,6 +31,7 @@ p{
      width:40%;
      float:left;
      margin-left:85px;
+     
 }
 
 .half-width img{
@@ -50,10 +51,10 @@ p{
 .single{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height:50%;
+    height:70%;
     padding:8px;
     background-color: white;
-    clear:both;
+    
 }
 
 .full-stack{
@@ -81,5 +82,9 @@ img{
 }
 
 .experience{
-    clear:both;
+    display:inline-block;
+}
+
+.container {
+    clear: both;
 }
