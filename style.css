@@ -13,6 +13,7 @@ section{
     height:500px;
     padding-bottom: 20px;
     
+    
 }
 
 h1 {
@@ -80,4 +81,9 @@ img{
 .experience h2{
     text-align: center;
 }
+
+.experience {
+    clear:both;
+}
+
 
